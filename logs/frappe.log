@@ -1,0 +1,9 @@
+2024-12-11 00:54:38,389 ERROR frappe New Exception collected with id: 2024-12-11 00:54:38.345610-127.0.0.1-05e
+Site: naeyam-healthcare
+Form Dict: {'cmd': 'appointment_booking.booking.get_available_slots'}
+2024-12-11 00:55:47,140 ERROR frappe New Exception collected with id: 2024-12-11 00:55:47.093777-127.0.0.1-40b
+Site: naeyam-healthcare
+Form Dict: {'cmd': 'appointment_booking.booking.get_available_slots'}
+2024-12-11 00:56:52,443 ERROR frappe New Exception collected with id: 2024-12-11 00:56:52.404268-127.0.0.1-d9d
+Site: naeyam-healthcare
+Form Dict: {'cmd': 'appointment_booking.booking.get_available_slots'}
