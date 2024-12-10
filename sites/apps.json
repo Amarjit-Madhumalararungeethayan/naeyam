@@ -1,0 +1,31 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "14.85.2"
+    },
+    "healthcare": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "649ce6a00932b54e1a9c2f7babae23b94cda936e",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "16.0.0-dev"
+    },
+    "appointment_booking": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "a8bc4e96d1d2d6f0888cf797fd23389347867b07",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    }
+}
