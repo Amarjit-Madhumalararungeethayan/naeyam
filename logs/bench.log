@@ -307,3 +307,37 @@ To avoid seeing this warning, set shallow_clone to false in your common_site_con
 2024-12-11 00:56:41,634 INFO /opt/homebrew/bin/bench worker
 2024-12-11 00:56:41,640 INFO /opt/homebrew/bin/bench watch
 2024-12-11 00:56:41,644 INFO /opt/homebrew/bin/bench serve --port 8000
+2024-12-11 11:07:18,957 INFO /opt/homebrew/bin/bench start
+2024-12-11 11:07:19,329 INFO /opt/homebrew/bin/bench serve --port 8000
+2024-12-11 11:07:19,334 INFO /opt/homebrew/bin/bench schedule
+2024-12-11 11:07:19,334 INFO /opt/homebrew/bin/bench worker
+2024-12-11 11:07:19,335 INFO /opt/homebrew/bin/bench watch
+2024-12-18 15:29:43,361 INFO /opt/homebrew/bin/bench build
+2024-12-18 15:29:57,920 INFO /opt/homebrew/bin/bench clear cache
+2024-12-18 15:30:03,351 INFO /opt/homebrew/bin/bench clear-cache
+2024-12-18 15:30:28,585 INFO /opt/homebrew/bin/bench start
+2024-12-18 15:30:28,882 INFO /opt/homebrew/bin/bench watch
+2024-12-18 15:30:28,899 INFO /opt/homebrew/bin/bench schedule
+2024-12-18 15:30:28,899 INFO /opt/homebrew/bin/bench serve --port 8000
+2024-12-18 15:30:28,900 INFO /opt/homebrew/bin/bench worker
+2024-12-18 15:40:27,781 INFO /opt/homebrew/bin/bench start
+2024-12-18 15:40:28,073 INFO /opt/homebrew/bin/bench serve --port 8000
+2024-12-18 15:40:28,088 INFO /opt/homebrew/bin/bench watch
+2024-12-18 15:40:28,089 INFO /opt/homebrew/bin/bench schedule
+2024-12-18 15:40:28,110 INFO /opt/homebrew/bin/bench worker
+2024-12-19 17:41:11,914 INFO /opt/homebrew/bin/bench start
+2024-12-19 17:41:12,293 INFO /opt/homebrew/bin/bench serve --port 8000
+2024-12-19 17:41:12,296 INFO /opt/homebrew/bin/bench worker
+2024-12-19 17:41:12,303 INFO /opt/homebrew/bin/bench schedule
+2024-12-19 17:41:12,307 INFO /opt/homebrew/bin/bench watch
+2024-12-19 19:59:46,805 INFO /opt/homebrew/bin/bench clear-cache
+2024-12-19 19:59:47,410 INFO /opt/homebrew/bin/bench restart
+2024-12-19 19:59:47,587 DEBUG cd /Users/amarjita/Desktop/healthcare-bench && supervisorctl restart frappe:
+2024-12-19 19:59:47,698 WARNING cd /Users/amarjita/Desktop/healthcare-bench && supervisorctl restart frappe: executed with exit code 2
+2024-12-19 19:59:47,699 WARNING /opt/homebrew/bin/bench restart executed with exit code 1
+2024-12-19 19:59:47,844 INFO A newer version of bench is available: 5.22.9 → 5.23.0
+2024-12-19 19:59:54,205 INFO /opt/homebrew/bin/bench start
+2024-12-19 19:59:54,506 INFO /opt/homebrew/bin/bench worker
+2024-12-19 19:59:54,509 INFO /opt/homebrew/bin/bench serve --port 8000
+2024-12-19 19:59:54,518 INFO /opt/homebrew/bin/bench watch
+2024-12-19 19:59:54,525 INFO /opt/homebrew/bin/bench schedule

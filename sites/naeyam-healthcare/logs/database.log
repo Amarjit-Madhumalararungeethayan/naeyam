@@ -2830,3 +2830,9 @@ create table `tabAvailable Nurse Slot` (
 			ROW_FORMAT=DYNAMIC
 			CHARACTER SET=utf8mb4
 			COLLATE=utf8mb4_unicode_ci
+2024-12-18 13:58:46,716 WARNING database DDL Query made to DB:
+ALTER TABLE `tabAvailable Nurse Slot` ADD COLUMN `location` varchar(140) default 'Trichy'
+2024-12-18 13:58:46,763 WARNING database DDL Query made to DB:
+ALTER TABLE `tabAvailable Nurse Slot` MODIFY `status` varchar(140)
+2024-12-18 14:05:08,777 WARNING database DDL Query made to DB:
+ALTER TABLE `tabAppointment` ADD COLUMN `appointment_id` varchar(140), ADD COLUMN `patient_name` varchar(140), ADD COLUMN `patient_email` varchar(140), ADD COLUMN `time_slot` time(6), ADD COLUMN `location` varchar(140), ADD COLUMN `nurse` varchar(140), ADD COLUMN `status` varchar(140)
